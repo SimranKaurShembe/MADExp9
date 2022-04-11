@@ -34,7 +34,7 @@
          }
      ],
     "id": "/?source=pwa",
-    "start_url": "/main/bushsk.github.io-main/index.html",
+    "start_url": "/?source=pwa",
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/main/bushsk.github.io-main/index.html",
