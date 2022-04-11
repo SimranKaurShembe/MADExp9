@@ -34,10 +34,10 @@
          }
      ],
     "id": "/?source=pwa",
-    "start_url": "./index.html",
+    "start_url": "https://github.com/SimranKaurShembe/MADExp9/blob/main/bushsk.github.io-main/index.html",
     "background_color": "#3367D6",
     "display": "standalone",
-    "scope": "./index.html",
+    "scope": "https://github.com/SimranKaurShembe/MADExp9/blob/main/bushsk.github.io-main/index.html",
     "theme_color": "#3367D6",
     "shortcuts": [
       {
